@@ -63,6 +63,47 @@ I'm a Grade 11 student based in Saudi Arabia, studying in a Cognia-accredited Am
 - ⏳ Secure strong scholarship (target: 100% tuition)
 - ⏳ Build projects that strengthen my path toward **big tech + USA master's**
 
+#### 📅 My Complete Roadmap to AUC (2026–2027)
+
+```mermaid
+gantt
+    title Complete Roadmap to AUC (2026–2027)
+    dateFormat YYYY-MM-DD
+    axisFormat %b %Y
+    todayMarker off
+    
+    section 📚 Testing
+    ACT Math (Feb 2026)           :done, 2026-02-01, 1d
+    SAT (March 2026)              :done, 2026-03-15, 1d
+    ACT Biology (July 2026)       :active, 2026-07-01, 1d
+    IELTS (Sept 2026)              :2026-09-01, 1d
+
+    section 🧑‍🏫 Volunteering
+    Schoolhouse Tutoring           :active, 2026-01-01, 2027-03-01
+    Target: 150–200+ Hours         :milestone, 2027-03-01, 1d
+
+    section 💻 Projects
+    AnyService Development         :active, 2026-01-01, 2027-03-01
+    NASA Space Apps Challenge       :2026-10-01, 30d
+
+    section 📝 Application Preparation
+    Draft Personal Statement       :2027-01-01, 60d
+    Request Recommendation Letters  :2027-02-01, 28d
+    Prepare Financial Documents     :2027-02-01, 28d
+
+    section 🚨 AUC Application
+    Early Admission Deadline       :milestone, 2027-03-01, 1d
+    Submit Scholarship Form        :2027-03-02, 3d
+    Submit Financial Docs          :2027-03-05, 3d
+
+    section 📬 Decisions & Beyond
+    Admission Decision             :2027-04-01, 45d
+    Scholarship Offer               :2027-04-15, 45d
+    Regular Deadline               :milestone, 2027-06-01, 1d
+    Finalize Enrollment            :2027-06-15, 30d
+    Start at AUC 🎓                :milestone, 2027-09-01, 1d
+```
+
 ---
 
 ## 📫 Connect With Me
