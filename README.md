@@ -25,8 +25,10 @@ I'm a Grade 11 student based in Saudi Arabia, studying in a Cognia-accredited Am
 
 ## 🛠️ Technologies I'm Learning
 
-**Languages:** Python, C++, JavaScript  
+**Languages:** Python, C++, JavaScript 
+
 **Tools:** Git, GitHub, VS Code
+
 **Interests:** Vehicle dynamics, data analysis, simulation, embedded systems, web development, AI/ML, systems design
 
 ---
