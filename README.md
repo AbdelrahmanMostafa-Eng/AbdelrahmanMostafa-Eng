@@ -2,7 +2,7 @@
 
 **Aspiring Computer Engineer • Future AUC Student • FSAE Enthusiast • Motorsport • Big Tech • USA Masters Pathway**
 
-I'm a Grade 11 student based in Saudi Arabia, studying in a Cognia-accredited American curriculum school. I'm passionate about building software that simulates, analyzes, and optimizes systems — with a long‑term goal of working at a top tech company like **Google, Meta, or Microsoft**, and pursuing a master's degree in the **USA**.
+I'm a Grade 11 student based in Saudi Arabia, studying in a Cognia-accredited American curriculum school. I'm passionate about building software that simulates, analyzes, and optimizes systems — with a long‑term goal of working at a top tech company like **ASML**, and pursuing a master's degree in the **USA**.
 
 ---
 
@@ -19,7 +19,7 @@ I'm a Grade 11 student based in Saudi Arabia, studying in a Cognia-accredited Am
   Pursue a **master's degree in the USA** in a field like Computer Engineering, AI, or Embedded Systems
 
 - **Long‑Term Vision:**  
-  Work as a software or systems engineer at **Google, Meta, or Microsoft** — contributing to impactful technology while staying connected to my passion for motorsport and simulation
+  Work as a software or systems engineer at **ASML** — contributing to impactful technology while staying connected to my passion for motorsport and simulation
 
 ---
 
