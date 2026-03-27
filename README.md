@@ -47,7 +47,7 @@ I'm a Grade 11 student based in Saudi Arabia, studying in a Cognia-accredited Am
 ## 🌟 Achievements & Involvement
 
 - **4.0 GPA** (Grade 11, American Diploma)
-- **SAT:** 1390 (790 Math, 600 EBRW) — targeting 1500+
+- **SAT:** 1530 (790 Math, 740 EBRW) - SuperScoring 
 - **ACT Subject Tests (AIST):** Math 1 — 36 | Biology — 36 (predicted)
 - **NASA Space Apps Challenge 2026** — Selected participant
 - **Cognia-Accredited School** — Egyptian equivalency path secured for AUC
@@ -57,7 +57,7 @@ I'm a Grade 11 student based in Saudi Arabia, studying in a Cognia-accredited Am
 ## 📈 Goals for 2026–2027
 
 - ✅ Maintain 4.0 GPA
-- ⏳ Achieve 1500+ SAT
+- ✅ Achieve 1500+ SAT
 - ⏳ Complete 100+ volunteer hours (Schoolhouse)
 - ⏳ Build and launch home services website
 - ⏳ Take IELTS/TOEFL for English proficiency
