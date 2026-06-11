@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Abdelrahman Mostafa
 
-**Aspiring Computer Engineer • Future AUC Student • FSAE Enthusiast • Motorsport • Big Tech • USA Masters Pathway**
+**Aspiring Computer Engineer • Future AUC Student • FSAE Enthusiast • Motorsport • Big Tech • Netherlands Masters Pathway**
 
-I'm a Grade 11 student based in Saudi Arabia, studying in a Cognia-accredited American curriculum school. I'm passionate about building software that simulates, analyzes, and optimizes systems — with a long‑term goal of working at a top tech company like **ASML**, and pursuing a master's degree in the **USA**.
+I'm a Grade 11 student based in Saudi Arabia, studying in a Cognia-accredited American curriculum school. I'm passionate about building software that simulates, analyzes, and optimizes systems — with a long‑term goal of working at a top tech company like **ASML**, and pursuing a master's degree in the **Netherlands**.
 
 ---
 
@@ -40,7 +40,7 @@ I'm a Grade 11 student based in Saudi Arabia, studying in a Cognia-accredited Am
 | **Vehicle Dynamics Calculator** | Modular Python-based simulator for FSAE vehicle systems (aero, brakes, chassis, tires, etc.) | ✅ Active |
 | **FSAE Telemetry Simulator** | Data analysis and visualization tool for lap times, fuel usage, tire wear, and race strategy | ✅ Active |
 | **FSAE Electronics Simulator** | Exploring hardware/software integration for embedded systems in motorsport | ✅ Active |
-| **Home Online Services Website** | Full-stack web development project — building a platform to connect users with local service providers | 🚧 In Progress |
+| **Home Online Services App** | Full-stack app development project — building a platform to connect users with local service providers | 🚧 In Progress |
 
 ---
 
@@ -59,11 +59,11 @@ I'm a Grade 11 student based in Saudi Arabia, studying in a Cognia-accredited Am
 - ✅ Maintain 4.0 GPA
 - ✅ Achieve 1500+ SAT
 - ⏳ Complete 100+ volunteer hours (Schoolhouse)
-- ⏳ Build and launch home services website
+- ⏳ Build and launch home services app
 - ⏳ Take IELTS/TOEFL for English proficiency
 - ⏳ Apply to AUC by **March 1, 2027** (early admission)
 - ⏳ Secure strong scholarship (target: 100% tuition)
-- ⏳ Build projects that strengthen my path toward **big tech + USA master's**
+- ⏳ Build projects that strengthen my path toward **big tech + Netherlands master's**
 
 #### 📅 My Complete Roadmap to AUC (2026–2027)
 
