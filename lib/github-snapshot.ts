@@ -9,7 +9,7 @@ export const profileSnapshot: GitHubProfile = {
   "html_url": "https://github.com/AbdelrahmanMostafa-Eng",
   "bio": "Js don't be average.",
   "location": "Saudi Arabia",
-  "blog": "abdelrahmanmostafa-eng.github.io",
+  "blog": "abdelrahmanmostafa-eng",
   "twitter_username": "AbdElRahmanm988",
   "public_repos": 12,
   "followers": 5,
@@ -20,9 +20,9 @@ export const profileSnapshot: GitHubProfile = {
 export const reposSnapshot: GitHubRepo[] = [
   {
     "id": 1385173823,
-    "name": "AbdelrahmanMostafa-Eng.github.io",
-    "full_name": "AbdelrahmanMostafa-Eng/AbdelrahmanMostafa-Eng.github.io",
-    "html_url": "https://github.com/AbdelrahmanMostafa-Eng/AbdelrahmanMostafa-Eng.github.io",
+    "name": "AbdelrahmanMostafa-Eng",
+    "full_name": "AbdelrahmanMostafa-Eng/AbdelrahmanMostafa-Eng",
+    "html_url": "https://github.com/AbdelrahmanMostafa-Eng/AbdelrahmanMostafa-Eng",
     "description": "Portfolio Website",
     "homepage": null,
     "language": null,
