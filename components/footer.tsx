@@ -70,7 +70,7 @@ export function Footer() {
             <h3 className="eyebrow">Elsewhere</h3>
             <ul className="mt-4 flex flex-col gap-2.5">
               <FooterLink href={`${site.githubUrl}?tab=repositories`}>Repositories</FooterLink>
-              <FooterLink href={`${site.githubUrl}/portfolio-roadmap`}>Portfolio roadmap (2026–27)</FooterLink>
+              <FooterLink href={`${site.githubUrl}/AbdelrahmanMostafa-Eng/blob/main/ROADMAP.md`}>Portfolio Roadmap (2026–27)</FooterLink>
               <FooterLink href="https://schoolhouse.world">Schoolhouse.world tutoring</FooterLink>
               <FooterLink href="https://www.spaceappschallenge.org">NASA Space Apps Challenge</FooterLink>
               <FooterLink href="https://www.aalto.fi/en/study-options/computer-engineering-bachelor-of-science-and-master-of-science-technology">
